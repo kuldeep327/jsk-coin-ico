@@ -1,0 +1,16 @@
+<section id="about" class="about-section">
+  <div class="container">
+    <h2>About JSK Coin</h2>
+    <p>
+      <strong>JSK Coin</strong> is a sacred meme coin inspired by the divine energy of Kinnaur Kailash Shivling. Launched to build a spiritual and tourism-powered crypto community, JSK Coin bridges tradition with blockchain technology.
+    </p>
+    <p>
+      Powered on Binance Smart Chain (BSC), our aim is to support spiritual tourism and create a self-sustaining community around JSK Camp and the holy land of Kinnaur. With community strength and purpose, we believe in “<strong>Har Har Mahadev – Blockchain ke Saath</strong>”.
+    </p>
+    <div class="founder-info">
+      <img src="images/founder.jpg" alt="Kuldeep Negi – Founder" />
+      <h3>Kuldeep Negi</h3>
+      <p>Founder – JSK Coin & JSK Camp Kinnaur Kailash</p>
+    </div>
+  </div>
+</section>
